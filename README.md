@@ -17,7 +17,7 @@ npm run serve
 npm run build
 ```
 
-## Build and deploy container_name
+## Build and deploy container
 
 ```
 docker-compose -f docker-compose.yml up --build -d
